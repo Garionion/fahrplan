@@ -1,4 +1,4 @@
-module fahrplan
+module github.com/Garionion/fahrplan
 
 go 1.15
 
